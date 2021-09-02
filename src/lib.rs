@@ -12,3 +12,5 @@ pub mod fact {
 
 
 pub mod fib ;
+
+pub mod vector; 
